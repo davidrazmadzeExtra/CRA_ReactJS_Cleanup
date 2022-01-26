@@ -11,7 +11,7 @@ Create a new app using `create-react-app`. Read more about that here: https://cr
 
 Run the following commands to remove all files that we won't be needing
 
-1. `rm REAMD.md`
+1. `rm README.md`
 2. `rm public/favicon.ico public/logo192.png public/logo512.png`
 3. `rm src/App.test.js src/logo.svg src/reportWebVitals.js src/setupTests.js`
 
