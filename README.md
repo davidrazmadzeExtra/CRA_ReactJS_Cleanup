@@ -22,6 +22,7 @@ Run the following commands to remove all files that we won't be needing
 - Remove the following lines:
 
   5: `<link rel="icon" href="%PUBLIC_URL%/favicon.ico" />`
+  
   12: `<link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />`
 
   And the comments in between `<!-- -->`
