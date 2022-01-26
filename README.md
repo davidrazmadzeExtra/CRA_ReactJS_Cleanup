@@ -40,8 +40,6 @@ Run the following commands to remove all files that we won't be needing
 
 - Look up some `HTML5` tags and tricks you could do to add in
 
-2.
-
 ### 2. `public/manifest.json`
 
 Remove `icons`:
